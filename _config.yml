@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Elias De Smijter"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at KU Leuven and UC Louvain"
+  bio              : "PhD student in Computer Vision"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven, UC Louvain"
   uri              : # URL
@@ -216,9 +216,9 @@ collections:
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -256,15 +256,15 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # # _portfolio
   # - scope:
   #     path: ""
