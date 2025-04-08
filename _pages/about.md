@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Elias De Smijter"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
 I am a joint PhD student in Electrical Engineering at KU Leuven and UC Louvain. Here I work under the supervision of Renaud Detry (KU Leuven) and Christophe De Vleeschouwer (UC Louvain).
 I am researching the use of radiance fields (mostly 3D Gaussian Splatting) in SLAM.
 
