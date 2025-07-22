@@ -22,7 +22,7 @@ repository               : "eliasdesmijter/eliasdesmijter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   name             : "Elias De Smijter"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Vision"
