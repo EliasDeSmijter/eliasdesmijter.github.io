@@ -14,5 +14,5 @@ I received both my BSc and MSc in Electrical Engineering at the [KU Leuven facul
 
 Recent News
 ======
-- I am helping organising the [Leuven.ai confernce](https://ai.kuleuven.be/600yearskul)!
+- I am helping organising the [Leuven.ai conference](https://ai.kuleuven.be/600yearskul)!
 - I will be presenting my work 'Can Appearance Embeddings Improve Geometry? Revisiting Floaters in Novel View Synthesis' at the [ASTRA25](https://atpi.eventsair.com/25a09--astra-2025/) symposium in Leiden.
