@@ -12,6 +12,10 @@ Here, I research the use of *radiance fields such as 3D Gaussian Splatting to re
 
 I received both my BSc and MSc in Electrical Engineering at the [KU Leuven faculty of Engineering Science](https://eng.kuleuven.be/en) and did a semester exchange at [EPFL](https://www.epfl.ch/en/) in Switzerland.
 
+Recent News
+======
+- I am helping organising the [Leuven.ai confernce](https://ai.kuleuven.be/600yearskul)!
+- I will be presenting my work 'Can Appearance Embeddings Improve Geometry? Revisiting Floaters in Novel View Synthesis' at the [ASTRA25](https://atpi.eventsair.com/25a09--astra-2025/) symposium in Leiden.
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
