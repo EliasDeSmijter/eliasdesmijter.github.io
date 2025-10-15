@@ -1,7 +1,7 @@
 ---
 title: "On the Geometric Accuracy of Implicit and Primitive-Based Representations Derived From View Rendering Constraints"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/2025-10-nvs-space
 excerpt: 'We present the first systematic comparison of implicit and explicit Novel View Synthesis methods for space-based 3D object reconstruction, evaluating the role of appearance embeddings.'
 date: 2025-10-08

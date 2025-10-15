@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/astra25
 venue: "18th Symposium on Advanced Space Technologies in Robotics and Automation"
+slidesurl: 'http://academicpages.github.io/files/astra25.pdf'
 date: 2025-10-08
 location: "Scheltema, Leiden, NL"
 ---
