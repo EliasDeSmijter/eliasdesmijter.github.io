@@ -10,4 +10,5 @@ location: "Scheltema, Leiden, NL"
 
 Presented my work "On the Geometric Accuracy of Implicit and Primitive-Based Representations Derived From View Rendering Constraints" at the ASTRA 2025 conference organized by ESA.
 
-[Find the slides here](http://academicpages.github.io/files/astra25.pdf)
+[Find the slides here](http://eliasdesmijter.github.io/files/astra25.pdf)
+[Find the paper here](http://eliasdesmijter.github.io/publication/2025-10-nvs-space)
